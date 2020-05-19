@@ -13,6 +13,7 @@ def pioneer
 
 
 def id_hash_generator(number)
-  {:23.obeject.id}
+  {:numenr.obeject.id}
+  23
   
 end
